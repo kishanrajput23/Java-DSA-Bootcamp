@@ -6,7 +6,6 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/kishanrajput23)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kishanrajput23/Java-DSA-Bootcamp)
-![Lines of code](https://img.shields.io/tokei/lines/github/kishanrajput23/Java-DSA-Bootcamp?color=red&label=Lines%20of%20Code)
 
 </div> 
   
