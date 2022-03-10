@@ -39,7 +39,7 @@ Also,
 
 10. [Write a function to find if a number is a palindrome or not. Take number as parameter.](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
 
-11. Convert the programs in [flow of program](01-flow-of-program.md), [first java](02-first-java.md), [conditionals & loops](03-conditionals-loops.md) assignments into functions.
+11. Convert the programs in [flow of program](https://github.com/kishanrajput23/Java-DSA-Bootcamp/blob/main/Assignments/01-flow-of-program/README.md), [first java](https://github.com/kishanrajput23/Java-DSA-Bootcamp/blob/main/Assignments/02-first-java/README.md), [conditionals & loops](https://github.com/kishanrajput23/Java-DSA-Bootcamp/blob/main/Assignments/03-conditionals-loops/README.md) assignments into functions.
 
 12. [Write a function to check if a given triplet is a Pythagorean triplet or not.](https://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array/) (A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number).
 
